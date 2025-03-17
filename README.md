@@ -6,7 +6,6 @@
 
 
 ---
-<img src="https://64.media.tumblr.com/14ca89b78fdd571a3ace96dad2caf093/tumblr_pdp5kenJOK1xchmwfo1_540.gifv" align="middle">
 
 ```python
   #!/usr/bin/python
