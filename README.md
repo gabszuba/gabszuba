@@ -2,7 +2,7 @@
 
 <p>I'm a Full-Stack Developer and IT student at  <a href="https://unimontes.br/"> Unimontes </a>
 
-[![Contact](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gabrielle-zuba/)
+[![Contact](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielle-zuba/)
 
 
 ---
